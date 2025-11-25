@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus 通讯录管理系统",
+  "description": "受链表结构启发的现代通讯录管理系统，具备 AI 智能解析和 SQL 数据库导出功能。",
+  "requestFramePermissions": []
+}
